@@ -43,7 +43,7 @@ Pdf_Extractor is a web application designed to facilitate the extraction of spec
    cd Pdf_Extractor_Frontend
    npm install
 
-   cd Pdf_Extractor_Frontend
+   cd Pdf_Extractor_Backend
    npm init -y
    ```
 
