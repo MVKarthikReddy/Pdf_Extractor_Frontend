@@ -1,0 +1,58 @@
+
+.homepage{
+    width: 100%;
+    /* border: 2px solid green; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.formStyle{
+    border: 1px solid gray;
+    border-radius: 20px;
+    padding: 20px;
+
+    margin-top: 10%;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.uploaded,.pdfContainer{
+    width: 80%;
+    /* border: 2px solid gray; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.output-div{
+    width: 80%;
+}
+
+.output-div1{
+    width: 100%;
+    /* border: 2px solid gray; */
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.crossmark{
+    font-size: xx-large;
+    cursor: pointer;
+    color: rgba(253, 153, 71, 0.799);
+    padding: 10px;
+}
+
+.crossmark:hover{
+    color: rgba(253, 71, 71, 0.799);
+}
+
+.pdfContainer{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
