@@ -73,7 +73,8 @@ Pdf_Extractor is a web application designed to facilitate the extraction of spec
 7.**Login Page**:
    <img width="960" alt="Screenshot 2024-03-08 025034" src="https://github.com/MVKarthikReddy/Pdf_Extractor_Backend/assets/101353332/2cbb3673-f39c-4b4d-a141-1ac25f771793">
    **Home Page**:
-<img width="960" alt="Screenshot 2024-03-08 025130" src="https://github.com/MVKarthikReddy/Pdf_Extractor_Backend/assets/101353332/879be99b-7d10-4fb6-bcc9-9376f4a3e8a3">
-<img width="960" alt="Screenshot 2024-03-08 025148" src="https://github.com/MVKarthikReddy/Pdf_Extractor_Backend/assets/101353332/560447a7-69fa-4eef-b801-77718b31a913">
-<img width="960" alt="Screenshot 2024-03-08 025213" src="https://github.com/MVKarthikReddy/Pdf_Extractor_Backend/assets/101353332/bd6c525c-160e-4b78-8fd2-06b0c2a57fa8">
-<img width="960" alt="Screenshot 2024-03-08 025234" src="https://github.com/MVKarthikReddy/Pdf_Extractor_Backend/assets/101353332/6959c5a7-b281-4e3e-a643-7effe5b80f60">
+   <img width="960" alt="Screenshot 2024-03-08 025130" src="https://github.com/MVKarthikReddy/Pdf_Extractor_Backend/assets/101353332/879be99b-7d10-4fb6-bcc9-9376f4a3e8a3">
+   <img width="960" alt="Screenshot 2024-03-08 025148" src="https://github.com/MVKarthikReddy/Pdf_Extractor_Backend/assets/101353332/560447a7-69fa-4eef-b801-77718b31a913">
+   <img width="960" alt="Screenshot 2024-03-08 025213" src="https://github.com/MVKarthikReddy/Pdf_Extractor_Backend/assets/101353332/bd6c525c-160e-4b78-8fd2-06b0c2a57fa8">
+
+   <img width="960" alt="Screenshot 2024-03-08 025234" src="https://github.com/MVKarthikReddy/Pdf_Extractor_Frontend/assets/101353332/400ca7ec-888a-4bf2-93b3-16e78d8abc6d">
