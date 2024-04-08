@@ -3,6 +3,8 @@ import '../../styles/login.css'
 import {FcGoogle} from 'react-icons/fc'
 import { useNavigate } from 'react-router-dom'
 import axios from 'axios'
+import { Tooltip } from 'react-tooltip'
+
 
 export const Register = () => {
 
@@ -75,10 +77,14 @@ export const Register = () => {
                 <p className="or">
                 ----- or continue with -----
                 </p>
-                <div className='icon'>
-                    <div className="icons">
-                        <FcGoogle/>
-                    </div>
+                <div className="icons"
+                                 data-tooltip-id="my-tooltip" data-tooltip-content="It's not working Please enter your details"
+                            >
+                    
+                                <FcGoogle/>
+                                <Tooltip id="my-tooltip" />
+
+                 
                 </div>
                 <div className="not-member">
                     Already registered? <span onClick={() => {navigate('/')}}>Login Now</span>

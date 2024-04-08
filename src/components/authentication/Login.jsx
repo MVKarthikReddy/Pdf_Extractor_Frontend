@@ -76,7 +76,7 @@ export const Login = () => {
                     <div className='icon'>
                        
                             <div className="icons"
-                                 data-tooltip-id="my-tooltip" data-tooltip-content="Hello world!"
+                                 data-tooltip-id="my-tooltip" data-tooltip-content="It's not working Please enter credentials"
                             >
                     
                                 <FcGoogle/>
